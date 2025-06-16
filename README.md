@@ -13,6 +13,7 @@ This 2-hour practical workshop introduces participants to neural networks throug
   - NumPy
   - Matplotlib
   - Jupyter Notebook
+  - Scikit Learn
 
 ## Setup Instructions
 
